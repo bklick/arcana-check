@@ -43,15 +43,6 @@
             "private": "false"
         }
     ],
-    "assets": [
-        {
-            "name": "Nightingale-3.pdf",
-            "label": "Nightingale PDF",
-            "path": "assets/nightingale.pdf",
-            "type": "pdf",
-            "private": "false"
-        }
-    ],
     "url": "This is auto replaced",
     "manifest": "This is auto replaced",
     "download": "This is auto replaced",
