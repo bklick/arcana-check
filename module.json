@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "arcana-check",
+  "title": "Homebrew from The Arcana Check at www.yesthievescan.com",
+  "description": "Homebrew content from The Arcana Check.",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,30 +12,39 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Bart",
+      "url": "www.yesthievescan.com",
+      "discord": "Bart_Thievescant#2089"
     }
   ],
   "relationships": {
-    "systems": [],
-    "requires": []
+    "systems": [dnd5e],
   },
-  "esmodules": [
-    "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
-  "languages": [
+"languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "languages/en.json"
+      "path": "languages/en.json",
+      "flags": {}
     }
+  ],
+  "packs": [
+	{
+		"label": "Arcana Check Subclass Items",
+		"path": "packs/arcana-check-subclasses.db",
+		"type": "Item",
+		"private": false,
+		"system": "dnd5e",
+		"flags": {}
+	},
+	{
+		"label": "Arcana Check PDFs",
+		"path": "packs/arcana-check-pdfs.db",
+		"type": "JournalEntry",
+		"private": false,
+		"system": "dnd5e",
+		"flags": {}
+	}
   ],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
