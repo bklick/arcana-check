@@ -18,7 +18,8 @@
 	"relationships": {
 		"systems": [{
 			"id": "dnd5e",
-			}],
+		}],
+	},
 	"packs": [{
 		"label": "Arcana Check Subclass Items",
 		"path": "packs/arcana-check-subclasses.db",
