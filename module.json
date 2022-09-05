@@ -20,6 +20,22 @@
             "patreon": "patreon.com/thievescant"
         }
     ],
+    "packs": [
+        {
+            "name": "arcana-check",
+            "label": "Arcana Check - Subclasses",
+            "path": "./packs/arcana-check.db",
+            "type": "JournalEntry",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "arcana-check",
+            "label": "Arcana Check - Subclass Items",
+            "path": "./packs/arcana-check-subclasses.db",
+            "type": "Item",
+            "entity": "Item"
+        }
+    ],
     "relationships": {
         "systems": [
             {
