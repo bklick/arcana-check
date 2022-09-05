@@ -19,10 +19,6 @@
 	"relationships": {
 		"systems": [{
 			"id": "dnd5e",
-			"manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.2/system.json",
-			"compatibility": {
-				"minimum": "2.0.2"
-					 }
 			}],
 	"packs": [{
 		"label": "Arcana Check Subclass Items",
