@@ -3,7 +3,7 @@
     "id": "arcana-check",
     "title": "The Arcana Check",
     "description": "Homebrew content from The Arcana Check.",
-    "version": "This is auto replaced",
+    "version": "1.0.0",
     "library": "false",
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10",
@@ -44,8 +44,8 @@
             }
         ]
     },
-    "url": "This is auto replaced",
-    "manifest": "This is auto replaced",
-    "download": "This is auto replaced",
+    "url": "https://github.com/bklick/arcana-check",
+    "manifest": "https://raw.githubusercontent.com/bklick/arcana-check/master/module.json",
+    "download": "raw.githubusercontent.com/bklick/arcana-check/module.zip",
     "readme": "README.md"
 }
