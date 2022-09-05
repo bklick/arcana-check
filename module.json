@@ -1,44 +1,42 @@
 {
-  "title": "Homebrew from The Arcana Check at www.yesthievescan.com",
-  "description": "Homebrew content from The Arcana Check.",
-  "version": "This is auto replaced",
-  "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
-  },
-  "authors": [
-    {
-      "name": "Bart",
-      "url": "www.yesthievescan.com",
-      "discord": "Bart_Thievescant#2089",
-      "flags": {}
-    }
-  ],
-  "packs": [
+	"id": "arcana-check",
+	"title": "The Arcana Check",
+	"description": "Homebrew content from The Arcana Check.",
+	"version": "This is auto replaced",
+	"compatibility": {
+		"minimum": 10, // Depends on version 10 journals.
+	},
 	{
+	"authors": [{
+		"name": "Bartholomew Klick",
+		"url": "www.yesthievescan.com",
+		"discord": "Bart_Thievescant#2089",
+		"patreon": "patreon.com/thievescant"
+		}]
+	},
+	"relationships": {
+		"systems": [{
+			"id": "dnd5e",
+			"manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.2/system.json",
+			"compatibility": {
+				"minimum": "2.0.2"
+				}
+			}]
+	},
+	"packs": [{
 		"label": "Arcana Check Subclass Items",
 		"path": "packs/arcana-check-subclasses.db",
 		"type": "Item",
-		"private": false,
-		"system": "dnd5e",
-		"flags": {}
-	},
-	{
+		"private": false
+		},
+		{
 		"label": "Arcana Check PDFs",
 		"path": "packs/arcana-check-pdfs.db",
 		"type": "JournalEntry",
-		"private": false,
-		"system": "dnd5e",
-		"flags": {}
-	}
-  ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "readme": "README.md",
-  "id": "arcana-check",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
-  "name": "arcana-check",
-    }
+		"private": false
+		}],
+	"url": "This is auto replaced",
+	"manifest": "This is auto replaced",
+	"download": "This is auto replaced",
+	"readme": "README.md"
+}
