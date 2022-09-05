@@ -29,12 +29,14 @@
   },
   "packs": [
     {
+      "name": "arcana-check-subclasses",
       "label": "Arcana Check Subclass Items",
       "path": "packs/arcana-check-subclasses.db",
       "type": "Item",
       "private": "false"
     },
     {
+      "name": "arcana-check-pdfs",
       "label": "Arcana Check PDFs",
       "path": "packs/arcana-check-pdfs.db",
       "type": "JournalEntry",
