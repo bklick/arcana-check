@@ -1,50 +1,59 @@
 {
-  "name": "arcana-check",
-  "id": "arcana-check",
-  "title": "The Arcana Check",
-  "description": "Homebrew content from The Arcana Check.",
-  "version": "This is auto replaced",
-  "library": "false",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10",
-    "maximum": "11"
-  },
-  "authors": [
-    {
-      "name": "Bartholomew Klick",
-      "url": "www.yesthievescan.com",
-      "discord": "Bart_Thievescant#2089",
-      "patreon": "patreon.com/thievescant"
-    }
-  ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e"
-      }
-    ]
-  },
-  "packs": [
-    {
-      "name": "arcana-check-subclasses",
-      "label": "Arcana Check Subclass Items",
-      "path": "arcana-check/packs/arcana-check-subclasses.db",
-      "type": "Item",
-      "private": "false"
+    "name": "arcana-check",
+    "id": "arcana-check",
+    "title": "The Arcana Check",
+    "description": "Homebrew content from The Arcana Check.",
+    "version": "This is auto replaced",
+    "library": "false",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10",
+        "maximum": "11"
     },
-    {
-      "name": "arcana-check-pdfs",
-      "label": "Arcana Check PDFs",
-      "path": "arcana-check/packs/arcana-check-pdfs.db",
-      "type": "JournalEntry",
-      "private": "false"
-    }
-  ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "readme": "README.md"
+    "authors": [
+        {
+            "name": "Bartholomew Klick",
+            "url": "www.yesthievescan.com",
+            "discord": "Bart_Thievescant#2089",
+            "patreon": "patreon.com/thievescant"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e"
+            }
+        ]
+    },
+    "packs": [
+        {
+            "name": "arcana-check-subclasses",
+            "label": "Arcana Check Subclass Items",
+            "path": "arcana-check/packs/arcana-check-subclasses.db",
+            "type": "Item",
+            "private": "false"
+        },
+        {
+            "name": "arcana-check-pdfs",
+            "label": "Arcana Check PDFs",
+            "path": "arcana-check/packs/arcana-check-pdfs.db",
+            "type": "JournalEntry",
+            "private": "false"
+        }
+    ],
+    "assets": [
+        {
+            "name": "Nightingale-3.pdf",
+            "label": "Nightingale PDF",
+            "path": "assets/Nightingale-3.pdf",
+            "type": "pdf",
+            "private": "false"
+        }
+    ],
+    "url": "This is auto replaced",
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced",
+    "readme": "README.md"
 }
