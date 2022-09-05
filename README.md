@@ -6,5 +6,3 @@ And feel free to toss a coin to your content provider:
 www.patreon.com/thievescant
 
 Manifest URL: https://github.com/bklick/arcana-check/releases/latest/download/module.json
-
-Download: https://github.com/bklick/arcana-check/releases/download/1.0.2/module.zip
