@@ -1,10 +1,7 @@
 {
-  "id": "arcana-check",
-  "name": "arcana-check",
   "title": "Homebrew from The Arcana Check at www.yesthievescan.com",
   "description": "Homebrew content from The Arcana Check.",
   "version": "This is auto replaced",
-  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 10,
     "verified": 10,
@@ -39,5 +36,9 @@
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "readme": "README.md"
+  "readme": "README.md",
+  "id": "arcana-check",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "name": "arcana-check",
     }
