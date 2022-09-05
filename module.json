@@ -4,7 +4,7 @@
 	"description": "Homebrew content from The Arcana Check.",
 	"version": "This is auto replaced",
 	"compatibility": {
-		"minimum": 10, // Depends on version 10 journals.
+		"minimum": 10,
 	},
 	{
 	"authors": [{
