@@ -31,14 +31,14 @@
         {
             "name": "arcana-check-subclasses",
             "label": "Arcana Check Subclass Items",
-            "path": "arcana-check/packs/arcana-check-subclasses.db",
+            "path": "packs/arcana-check-subclasses.db",
             "type": "Item",
             "private": "false"
         },
         {
             "name": "arcana-check-pdfs",
             "label": "Arcana Check PDFs",
-            "path": "arcana-check/packs/arcana-check-pdfs.db",
+            "path": "packs/arcana-check-pdfs.db",
             "type": "JournalEntry",
             "private": "false"
         }
@@ -47,7 +47,7 @@
         {
             "name": "Nightingale-3.pdf",
             "label": "Nightingale PDF",
-            "path": "assets/Nightingale-3.pdf",
+            "path": "assets/nightingale.pdf",
             "type": "pdf",
             "private": "false"
         }
