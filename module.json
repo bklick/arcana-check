@@ -3,6 +3,7 @@
 	"title": "The Arcana Check",
 	"description": "Homebrew content from The Arcana Check.",
 	"version": "This is auto replaced",
+	"library": false,
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10",
