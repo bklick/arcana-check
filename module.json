@@ -29,13 +29,13 @@
 		"label": "Arcana Check Subclass Items",
 		"path": "packs/arcana-check-subclasses.db",
 		"type": "Item",
-		"private": false
+		"private": "false"
 		},
 		{
 		"label": "Arcana Check PDFs",
 		"path": "packs/arcana-check-pdfs.db",
 		"type": "JournalEntry",
-		"private": false
+		"private": "false"
 		}],
 	"languages": [{
 		"lang": "en",
