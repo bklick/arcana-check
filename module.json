@@ -3,7 +3,6 @@
   "title": "Homebrew from The Arcana Check at www.yesthievescan.com",
   "description": "Homebrew content from The Arcana Check.",
   "version": "This is auto replaced",
-  "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 10,
@@ -20,14 +19,6 @@
   "relationships": {
     "systems": [dnd5e],
   },
-"languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json",
-      "flags": {}
-    }
-  ],
   "packs": [
 	{
 		"label": "Arcana Check Subclass Items",
