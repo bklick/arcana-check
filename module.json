@@ -34,7 +34,7 @@
             "path": "./packs/arcana-check-subclass-items.db",
             "type": "Item",
             "entity": "Item",
-	    "system": "dnd5e"
+            "system": "dnd5e"
         }
     ],
     "relationships": {
