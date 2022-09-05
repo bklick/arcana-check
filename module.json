@@ -22,9 +22,8 @@
 			"manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.2/system.json",
 			"compatibility": {
 				"minimum": "2.0.2"
-				}
-			}]
-	},
+					 }
+			}],
 	"packs": [{
 		"label": "Arcana Check Subclass Items",
 		"path": "packs/arcana-check-subclasses.db",
@@ -42,7 +41,6 @@
 		"name": "English",
 		"path": "languages/en.json"
 		}],
-	},
 	"url": "This is auto replaced",
 	"manifest": "This is auto replaced",
 	"download": "This is auto replaced",
