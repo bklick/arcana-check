@@ -17,7 +17,7 @@
     }
   ],
   "relationships": {
-    "systems": [dnd5e],
+    "systems": "dnd5e",
   },
   "packs": [
 	{
