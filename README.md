@@ -5,4 +5,4 @@ www.yesthievescan.com
 And feel free to toss a coin to your content provider:
 www.patreon.com/thievescant
 
-Manifest URL: https://github.com/bklick/arcana-check/releases/latest/download/module.json
+Manifest URL: https://raw.githubusercontent.com/bklick/arcana-check/master/module.json
