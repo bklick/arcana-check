@@ -1,0 +1,51 @@
+{
+    "name": "arcana-check",
+    "id": "arcana-check",
+    "title": "The Arcana Check",
+    "description": "Homebrew content from The Arcana Check.",
+    "version": "This is auto replaced",
+    "library": "false",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10",
+        "maximum": "11"
+    },
+    "authors": [
+        {
+            "name": "Bartholomew Klick",
+            "url": "www.yesthievescan.com",
+            "discord": "Bart_Thievescant#2089",
+            "patreon": "patreon.com/thievescant"
+        }
+    ],
+    "packs": [
+        {
+            "name": "arcana-check-subclass-journals",
+            "label": "Arcana Check - Subclass Journals",
+            "path": "./packs/arcana-check-subclass-journals.db",
+            "type": "JournalEntry",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "arcana-check-subclass-items",
+            "label": "Arcana Check - Subclass Items",
+            "path": "./packs/arcana-check-subclass-items.db",
+            "type": "Item",
+            "entity": "Item",
+	    "system": "dnd5e"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e"
+            }
+        ]
+    },
+    "url": "This is auto replaced",
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced",
+    "readme": "README.md"
+}
